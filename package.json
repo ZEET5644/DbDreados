@@ -1,0 +1,29 @@
+{
+  "name": "telegram-md-x-pl",
+  "description": "Template dibagikan secara Free untuk kalian belajar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.0",
+    "@whiskeysockets/baileys": "github:kiuur/baileys",
+    "acorn": "^8.15.0",
+    "adm-zip": "^0.5.16",
+    "archiver": "^7.0.1",
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.1.2",
+    "fs-extra": "^11.3.2",
+    "json5": "^2.2.3",
+    "jszip": "^3.10.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "pino": "^9.6.0",
+    "unzipper": "^0.12.3",
+    "uuid": "^7.0.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
